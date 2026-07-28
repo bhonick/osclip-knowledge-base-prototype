@@ -2,8 +2,6 @@
 
 > **Prototype status:** This inventory was imported from the OSCLIP Project 1 resource-collection form. Section placement, descriptions, audiences, resource types, and access notes are provisional and require working-group review.
 
-Resources are grouped into browsing sections to make the inventory easier to scan.
-
 ## Practical Guidance, Policies, and Evaluation
 
 | Resource | Description | Intended audience | Resource type(s) | Access and notes |
