@@ -2,7 +2,7 @@
 
 > **Prototype status:** This inventory was imported from the OSCLIP Project 1 resource-collection form. Section placement, descriptions, audiences, resource types, and access notes are provisional and require working-group review.
 
-Resources are grouped into browsing sections to make the inventory easier to scan. These section headings are navigational only and do not replace the submitted **Type of Resource** values. The **Resource type(s)** column preserves the exact wording, capitalization, ordering, and combinations from the source spreadsheet. Each section is alphabetized by the displayed resource name.
+Resources are grouped into browsing sections to make the inventory easier to scan.
 
 ## Practical Guidance, Policies, and Evaluation
 
